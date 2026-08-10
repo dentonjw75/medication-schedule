@@ -1,0 +1,14 @@
+{
+  "name": "Medication Schedule",
+  "short_name": "Med Schedule",
+  "description": "Create, save, and print medication schedules from your iPhone.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f8",
+  "theme_color": "#17395f",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
